@@ -33,4 +33,7 @@
 
 # IDE
 /.vs
+/Snake/bin/Debug
+/Snake/obj/Debug
+*.cache
 
